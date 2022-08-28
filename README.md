@@ -16,4 +16,5 @@ How to use
 - Replace `variables('txt2')` with your text or variable
 - Replace the delimiter `' '` with your delimiter.
 
-
+## DISCLAIMER
+*__THIS CODE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.__*
