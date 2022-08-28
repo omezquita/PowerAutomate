@@ -1,5 +1,5 @@
 # PowerAutomate
-The purpose of this repo is to store the JSON files for useful Power Automate and Logic Apps automations
+The purpose of this repo is to store useful Power Automate and Logic Apps workflows and expressions
 
 ## Usefull Expressions
 A list is included below with useful Workflow Definition Language Expressions
