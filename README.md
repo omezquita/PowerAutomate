@@ -1,4 +1,4 @@
-# PowerAutomate
+# Power Automate & Logic Apps
 The purpose of this repo is to store useful Power Automate and Logic Apps workflows and expressions
 
 ## Useful Expressions
