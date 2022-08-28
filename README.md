@@ -4,6 +4,8 @@ The purpose of this repo is to store useful Power Automate and Logic Apps workfl
 ## Useful Expressions
 A list is included below with useful Workflow Definition Language Expressions
 
+Functions Reference from Microsoft: [Click here](https://docs.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference) 
+
 ### Working with strings
 
 #### Text after a delimiter
