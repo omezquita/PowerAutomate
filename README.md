@@ -1,7 +1,7 @@
 # PowerAutomate
 The purpose of this repo is to store useful Power Automate and Logic Apps workflows and expressions
 
-## Usefull Expressions
+## Useful Expressions
 A list is included below with useful Workflow Definition Language Expressions
 
 ### Working with strings
